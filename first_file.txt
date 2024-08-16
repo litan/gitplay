@@ -1,2 +1,3 @@
 Some random text
 On branch 1
+next change
